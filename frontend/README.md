@@ -11,7 +11,7 @@
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/gestor-tareas.git
+   git clone https://github.com/matipala/gestor-tareas.git
    cd gestor-tareas
    ```
 2. Instalar dependencias:
